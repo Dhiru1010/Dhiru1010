@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhiru1010
-- 👀 I’m interested in machine learning and ai 
+- 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on projects
 - 📫 you can reach me from following methods 
