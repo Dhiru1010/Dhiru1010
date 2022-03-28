@@ -1,6 +1,6 @@
 - 👋 Hi, Dhirendra Singh Negi is here.
-- 👀 Final year student enthusa in Machine Learning and AI
-- 🌱 I’m currently learning deep learning
+- 👀 Software developer seek for knowledge 
+- 🌱 I’m currently learning machine learning and intermidiate in Frontend 
 - 💞️ I’m looking to collaborate on projects
 - 📫 you can reach me from following methods 
 - 📫 Linkedin -https://www.linkedin.com/in/dhirendra-singh-negi-8124611b4/
