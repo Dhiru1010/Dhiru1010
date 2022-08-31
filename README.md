@@ -1,6 +1,5 @@
 - 👋 Hi, Dhirendra Singh Negi is here.
 - 👀 Software developer seek for knowledge 
-- 🌱 I’m currently learning machine learning and intermidiate in Frontend 
 - 💞️ I’m looking to collaborate on projects
 - 📫 you can reach me from following methods 
 - 📫 Linkedin -https://www.linkedin.com/in/dhirendra-singh-negi-8124611b4/
